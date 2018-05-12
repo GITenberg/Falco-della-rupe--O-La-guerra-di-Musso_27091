@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32453
     wikipedia: http://it.wikipedia.org/wiki/Giambattista_Bazzoni
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27091#Falco-della-rupe--O-La-guerra-di-Musso
 gutenberg_bookshelf: IT Romanzi storici
 gutenberg_issued: '2008-10-29'
 gutenberg_type: Text
