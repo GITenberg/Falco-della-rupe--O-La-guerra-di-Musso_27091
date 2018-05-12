@@ -1,0 +1,31 @@
+_repo: Falco-della-rupe--O-La-guerra-di-Musso_27091
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bazzoni, Giambattista
+    aliases:
+    - Bazzoni, Giovanni Battista
+    - Bazzoni, G. B. (Giambattista)
+    birthdate: 1803
+    deathdate: 1850
+    gutenberg_agent_id: '32453'
+    url: http://www.gutenberg.org/2009/agents/32453
+    wikipedia: http://it.wikipedia.org/wiki/Giambattista_Bazzoni
+description: ''
+gutenberg_bookshelf: IT Romanzi storici
+gutenberg_issued: '2008-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27091'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Historical fiction'
+title: Falco della rupe; O, La guerra di Musso
+url: http://www.gutenberg.org/ebooks/27091
